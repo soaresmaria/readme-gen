@@ -1,0 +1,22 @@
+{
+  "name": "readme-gen",
+  "version": "1.0.0",
+  "description": "module package",
+  "main": "index.js",
+  "scripts": {
+    "test": "na"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soaresmaria/readme-gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soaresmaria/readme-gen/issues"
+  },
+  "homepage": "https://github.com/soaresmaria/readme-gen#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
